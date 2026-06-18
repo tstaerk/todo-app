@@ -4,4 +4,13 @@ Also it should allow to have a three lines text field with notes to describe the
 Todos should only be visible to the user themselves, authentication should work using Google. 
 It should also be possible to mark a task as recurring and to postpone a task by a day, a week or any date. 
 The content should be exportable to CSV and it should offer reporting on what I got done when.
+
+There should be three sections vertically separated:
+* ToDo
+* Due later
+* Done
+
+I typically put links into the text field aka description of the todos. This way my todo could be "comment on XYZ" and in the description I would link to XYZ. 
+Make the links directly clickable, right now I have to copy them and paste them into a browser
+
 Name of the app: tAskMeAnything
